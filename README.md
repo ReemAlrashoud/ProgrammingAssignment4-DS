@@ -16,12 +16,12 @@ friends with the user.
 ## 2-The data structures
 In this section, we present the data structures necessary for this assignment.
 
-**2.1 Implementing a top k priority queue**
+**2.1 Implementing a top k priority queue:**
 To recommend top k users, we use a priority queue that keeps only the top k elements and
 serves them in decreasing order of priority. For this, write the class PQKImp that implements the
 interface PQK.
 
-**2.2 Implementing a map**
+**2.2 Implementing a map:**
 In this step, you write a BST implementation of a map.
 
 ## 3-Representing the social network
